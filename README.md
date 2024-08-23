@@ -431,7 +431,6 @@ Listing all running services...
   unattended-upgrades.service                    loaded active running Unattended Upgrades Shutdown
   user@1000.service                              loaded active running User Manager for UID 1000
 
-lines 1-26
 
 5. Conclusion
 This document outlines the complete process of creating a security audit and hardening script, from individual command testing to script execution. This approach ensured that each step was thoroughly validated, resulting in a reliable and effective script. The final script, along with this documentation, has been uploaded to the GitHub repository for further use and reference.
