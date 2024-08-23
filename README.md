@@ -1,4 +1,4 @@
-                                                                                                Task-1
+                                                                                 Task-1
 Monitoring system resource for a proxy server
 
 1. Introduction
@@ -132,7 +132,7 @@ apache2 is running
 iptables is running
 
 
-                                                                                      Task-2
+                                                                          Task-2
 
 Documentation: Security Audit and Hardening Script Creation
 1. Introduction
